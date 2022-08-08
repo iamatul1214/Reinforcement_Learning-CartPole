@@ -1,2 +1,2 @@
-# general-template
-This is a general template which can be utilised for AI related projects.
+# CartPole problem in Reinforcement learning using gym
+### Here we have used simple policy and Neural network policy.
