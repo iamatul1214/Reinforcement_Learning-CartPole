@@ -2,3 +2,5 @@ gym
 gym[classic_control]
 numpy
 tqdm
+ipykernel
+tensorflow
